@@ -1,0 +1,2 @@
+# RegResetForPb
+PowerBuilderが起動できなくなった時にレジストリを消去します。
